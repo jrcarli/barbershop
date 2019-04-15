@@ -1,0 +1,13 @@
+## IntelliJ
+.idea/
+out/
+
+## Mac
+.DS_Store
+
+## Gradle
+.gradle/
+
+
+## General
+build/
